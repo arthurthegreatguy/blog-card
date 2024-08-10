@@ -1,0 +1,60 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: "Figtree", sans-serif;
+}
+
+.blog-card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    padding: 20px;
+    width: 350px;
+    box-shadow: 10px 10px ;
+    color: hsl(0, 0%, 7%);
+}
+
+.published {
+    font-weight: 500;
+}
+
+.info {
+    line-height: 24px;
+    color: hsl(0, 0%, 42%);
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 15px;
+}
+
+.yellow-bg {
+    background-color: hsl(47, 88%, 63%);
+    width: 90px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.author-details {
+    display: flex;
+    align-items: center;
+    font-weight: 800;
+}
+
+.author-details >
+
+.greg-img {
+    width: 50px;
+    /* height: 50px; */
+    margin-right: 10px;
+}
+
+h1,  {
+    f
+}
+
+
